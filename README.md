@@ -8,7 +8,7 @@ This library implements an *Immediate Mode GUI* (IMGUI) using the Fyne framework
 
 ### Key Features:
 - **Simplicity and Speed**: The IMGUI approach reduces the complexity of widget management and offers a more direct and faster workflow.
-- **Built on Fyne**: Leverages the Fyne library for graphical rendering, taking advantage of its cross-platform capabilities (Linux, Windows, macOS, mobile).
+- **Built on Fyne**: Leverages the Fyne library for graphical rendering, taking advantage of its cross-platform capabilities (Linux, Windows, macOS).
 - **Fully Customizable**: Enables the creation of highly customizable user interfaces, perfect for applications that need fine control over the GUI.
 - **High Performance**: Optimized for smooth performance, even with complex and interaction-heavy applications.
 
