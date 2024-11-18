@@ -1,4 +1,3 @@
-Sure! Here's an English description for your GitHub project about an IMGUI (Immediate Mode GUI) library built in Go using the Fyne framework:
 
 ---
 
